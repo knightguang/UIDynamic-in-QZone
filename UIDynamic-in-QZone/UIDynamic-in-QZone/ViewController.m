@@ -22,7 +22,6 @@
 
 @property (weak, nonatomic) IBOutlet UIView *redView;
 
-
 @property (assign, nonatomic) BOOL isSnap;
 
 @end
